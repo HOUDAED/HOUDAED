@@ -1,6 +1,13 @@
 # Hi 👋, I'm Edvige  
 ### Aspiring Data Infrastructure Engineer | Passionate about Data, AI & Football ⚽  
 
+### 🌍 Languages
+French 🇫🇷 – Native  
+English 🇬🇧 – Fluent  
+
+![French](https://img.shields.io/badge/French-Native-blue?style=for-the-badge&logo=google&logoColor=white)
+![English](https://img.shields.io/badge/English-Fluent-green?style=for-the-badge&logo=google&logoColor=white)
+
 ---
 
 - 🔭 I’m currently working on **a football statistics platform** (organized by league, season and competition)  
@@ -23,5 +30,3 @@ Through my football statistics project, I’m practicing the **core steps of Dat
 ---
 
 ✨ *My dream is to become a **Data Infrastructure Engineer**. I’m building projects step by step, combining my passion for **Data, AI and Football**, and sharing my journey here on GitHub.*  
-
-
