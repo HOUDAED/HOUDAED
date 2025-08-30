@@ -2,8 +2,8 @@
 ### Aspiring Data Infrastructure Engineer | Passionate about Data, AI & Football ⚽  
 
 ### 🌍 Languages
-![French](https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg) – Native  
-![English](https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg) – Fluent
+French 🇫🇷 – Native  
+English 🇬🇧 – Fluent
 
 
 ---
