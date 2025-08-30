@@ -2,9 +2,8 @@
 ### Aspiring Data Infrastructure Engineer | Passionate about Data, AI & Football ⚽  
 
 ### 🌍 Languages
-French 🇫🇷 – Native  
-English 🇬🇧 – Fluent
-
+French – Native  
+English – Fluent
 
 ---
 
