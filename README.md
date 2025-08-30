@@ -2,11 +2,9 @@
 ### Aspiring Data Infrastructure Engineer | Passionate about Data, AI & Football ⚽  
 
 ### 🌍 Languages
-French 🇫🇷 – Native  
-English 🇬🇧 – Fluent  
+![French](https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg) – Native  
+![English](https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg) – Fluent
 
-![French](https://img.shields.io/badge/French-Native-blue?style=for-the-badge&logo=google&logoColor=white)
-![English](https://img.shields.io/badge/English-Fluent-green?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
