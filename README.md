@@ -1,5 +1,5 @@
 # Hi 👋, I'm Edvige  
-### Aspiring Data Infrastructure Engineer | Passionate about Data, AI & Football ⚽  
+### Aspiring Data Engineer | Passionate about Data, AI & Football ⚽  
 
 ### 🌍 Languages
 French – Native  
