@@ -26,4 +26,4 @@ Through my football statistics project, I’m practicing the **core steps of Dat
 
 ---
 
-✨ *My dream is to become a **Data Infrastructure Engineer**. I’m building projects step by step, combining my passion for **Data, AI and Football**, and sharing my journey here on GitHub.*  
+✨ *My dream is to become a **Data Engineer**. I’m building projects step by step, combining my passion for **Data, AI and Football**, and sharing my journey here on GitHub.*  
