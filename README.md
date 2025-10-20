@@ -1,29 +1,55 @@
-# Hi 👋, I'm Edvige  
-### Aspiring Data Engineer | Passionate about Data, AI & Football ⚽  
-
-### 🌍 Languages
-French – Native  
-English – Fluent
+# 👋 Hi, I'm Edvige  
+### 🎯 Aspiring Data Engineer | Passionate about Data, AI & Football ⚽  
 
 ---
 
-- 🔭 I’m currently working on **a football statistics platform** (organized by league, season and competition)  
-- 🌱 I’m currently a **student in Artificial Intelligence and Data**, exploring **Data Engineering, AI, and Machine Learning**  
-- 💬 I’m open to discuss **technology, programming, data projects, and learning experiences in general**  
-- 👯 I’m looking to collaborate on **any interesting projects where I can learn, contribute, and grow**  
-- 📫 How to reach me: **houmasseedviged@gmail.com**  
-- ⚡ Fun fact: *I’m passionate about football and believe that well-structured data can predict the future ⚡📊*  
+### 🌍 Languages  
+🇫🇷 **French** – Native  
+🇬🇧 **English** – Fluent  
+
+---
+
+### 🧠 About Me  
+
+- 🌱 Currently studying **Artificial Intelligence and Data**, exploring **Data Engineering, AI, and Machine Learning**  
+- 💬 Love discussing **technology, programming, data projects, and learning experiences**  
+- 👯 Open to collaborate on **projects where I can learn, contribute, and grow**  
+- 📫 Reach me at: **houmasseedviged@gmail.com**  
+- ⚡ *Fun fact:* I’m passionate about football and believe that **well-structured data can predict the future! 📊⚡**  
 
 ---
 
 ### 🏗️ My Data Engineering Journey  
 
-Through my football statistics project, I’m practicing the **core steps of Data Infrastructure**:  
-- 📥 **Collecte** – retrieving football match statistics  
-- 🗄️ **Stockage** – organizing data in structured databases  
-- 🔄 **Transformation** – cleaning and preparing the data for analysis  
-- 📊 **Mise à disposition** – enabling analysis & AI prediction models  
+Through my **Football Statistics Project**, I’m practicing the **core steps of Data Infrastructure**:
+
+| Step | Description |
+|------|--------------|
+| 📥 **Collection** | Retrieving football match statistics |
+| 🗄️ **Storage** | Organizing data in structured databases |
+| 🔄 **Transformation** | Cleaning and preparing data for analysis |
+| 📊 **Visualization & Prediction** | Enabling insights and building AI models |
 
 ---
 
-✨ *My dream is to become a **Data Engineer**. I’m building projects step by step, combining my passion for **Data, AI and Football**, and sharing my journey here on GitHub.*  
+### ⚙️ Currently Working On  
+
+🏟️ **Football Data Project** – Building an end-to-end data pipeline:  
+- Collect → Clean → Store → Analyze → Predict ⚽📈  
+
+---
+
+### ✨ My Goal  
+
+*To become a skilled **Data Engineer** by combining my passion for **Data, AI, and Football**, and by continuously learning, experimenting, and sharing my journey here on GitHub.*  
+
+---
+
+### 📫 Connect with Me  
+
+[![Gmail Badge](https://img.shields.io/badge/-houmasseedviged@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:houmasseedviged@gmail.com)  
+[![GitHub Badge](https://img.shields.io/badge/-Edvige-black?style=flat&logo=github&logoColor=white)](https://github.com/your-github-username)  
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my projects and connect — I’m always open to learning and collaboration.*  
