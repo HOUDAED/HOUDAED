@@ -48,7 +48,7 @@ Through my **Football Statistics Project**, I’m practicing the **core steps of
 ### 📫 Connect with Me  
 
 [![Gmail Badge](https://img.shields.io/badge/-houmasseedviged@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:houmasseedviged@gmail.com)  
-[![GitHub Badge](https://img.shields.io/badge/-Edvige-black?style=flat&logo=github&logoColor=white)](https://github.com/your-github-username)  
+[![GitHub Badge](https://img.shields.io/badge/-Edvige-black?style=flat&logo=github&logoColor=white)](https://github.com/HOUDAED)  
 
 ---
 
