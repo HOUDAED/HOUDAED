@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Edvige  
 ### 🎯 Aspiring Data Engineer | Passionate about Data, AI & Football ⚽  
-
+> 🔍 **À la recherche d'une alternance en IA & Data à partir de juin 2027** *(Lyon / Remote)*
 ---
 
 ### 🌍 Languages  
